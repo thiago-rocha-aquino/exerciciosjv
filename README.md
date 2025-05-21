@@ -11,6 +11,7 @@ representando o perímetro da forma.<br>
  Crie um método concreto getNome() que retorna o nome da forma.<br>
  Crie um método concreto exibirInformacoes() que imprima o nome, a área e o perímetro da forma. Este 
 método deve chamar os métodos abstratos calcularArea() e calcularPerimetro().<br>
+
 2- Crie Classes Concretas que Herdam de FormaGeometrica:
 
 Círculo:<br>
